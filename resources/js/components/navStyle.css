@@ -1,0 +1,47 @@
+body {
+    background-color: lightyellow;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
+.navi {
+    display: flex;
+    background-color: #b31b1b;
+    font-weight: bold;
+    width: 100%;
+    /* padding-right: 7%;
+    padding-right: 7%; */
+    margin-bottom: 30px;
+}
+
+.navi img {
+    display: inline-block;
+    width: 68px;
+    height: 60px;
+    vertical-align: middle;
+}
+
+.tag {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 1em;
+    font-size: 16px;
+}
+
+.tag:hover {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+.loginButton {
+    /* padding: 6px; */
+    margin: 5px;
+    display: inline-block;
+}
+
+button{
+    margin: 10px;
+}
+
